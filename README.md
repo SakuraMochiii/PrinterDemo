@@ -1,3 +1,3 @@
 # PrinterDemo
 
-A simple printer demo, using CloudPOS SDK aar 1.6.1.5.
+A printer demo using CloudPOS SDK aar 1.6.1.5.
